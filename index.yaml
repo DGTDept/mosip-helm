@@ -17350,7 +17350,7 @@ entries:
     version: 1.0.0
   signup:
   - apiVersion: v2
-    created: "2024-05-04T07:17:00.229158194Z"
+    created: "2024-05-09T07:15:03.020714529Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -17358,7 +17358,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart for DGTDept signup-service module
-    digest: 7e1de614292fa055c39cf224112ccb901ea2d82e112b2b01db404730032ea04c
+    digest: 9bcdcec5bfcb67ec83c8f657e66fc9af223735e0408280ba4032e6740932a33a
     home: https://mosip.io
     keywords:
     - mosip
@@ -17420,7 +17420,7 @@ entries:
     version: 0.0.1-develop
   signup-ui:
   - apiVersion: v2
-    created: "2024-05-04T07:17:00.232251504Z"
+    created: "2024-05-09T07:15:03.023011412Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -17428,7 +17428,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart for DGTDept SIGNUP UI module
-    digest: eed12742f3a391cbffc4eaa208eb9a6578873c60d601f214f8428773a3ca784b
+    digest: c90473b9538f31bab186203fe7399e11b54ccb484801ee4f3dd3125d833b4ea4
     home: https://mosip.io
     keywords:
     - mosip
@@ -18726,4 +18726,4 @@ entries:
     urls:
     - https://mosip.github.io/mosip-helm/websub-consolidator-0.0.1-develop.tgz
     version: 0.0.1-develop
-generated: "2024-05-09T07:13:32.580675652Z"
+generated: "2024-05-09T07:15:03.018416915Z"
